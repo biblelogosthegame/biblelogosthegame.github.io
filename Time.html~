@@ -1,0 +1,11 @@
+Bible Logos The Game
+GitHub Pages Tutorial
+
+GitHub:
+biblelogosthegame (bsb@barneylaw.com)
+Biblelogosthegame2016
+
+https://pages.github.com/
+
+09:00A- :GitHub / GitHub Pages SetUp
+09:30A - GitHub Ubuntu 14 CLI Setup. When first committing I got an error: ** Please tell me who you are.  Run: [git config --global user.email "bsb@barneylaw.com" git config --global user.name "Brandon Scott Barney"]  I ommitted the --global because I wanted to set my account's default identity only in this repository for this Bible Logos the Game GitHub Pages tutorial
